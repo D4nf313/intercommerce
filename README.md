@@ -89,7 +89,7 @@ El store de Zustand se refactorizaría para soportar un mapa de carritos por tie
 
 ## Deploy
 
-Desplegado en Vercel: [URL_DEL_DEPLOY]
+Desplegado en Vercel: https://intercommerce-g1lo.vercel.app/
 
 ## Autor
 
