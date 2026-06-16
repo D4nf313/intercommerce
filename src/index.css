@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Barlow:wght@400;500;600&display=swap');
+
+:root {
+  --color-primary: #F47920;
+  --color-primary-dark: #d4620a;
+  --color-secondary: #111111;
+  --color-secondary-light: #2a2a2a;
+  --color-bg: #f5f5f5;
+  --color-white: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-muted: #666666;
+  --color-border: #e0e0e0;
+  --color-success: #16a34a;
+  --color-error: #E30613;
+  --font-family: 'Barlow', 'Segoe UI', Arial, sans-serif;
+  --font-display: 'Barlow Condensed', Arial Narrow, Arial, sans-serif;
+  --shadow-sm: 0 1px 4px rgba(0,0,0,0.1);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-family); background: var(--color-bg); color: var(--color-text); }
+img { max-width: 100%; }
+button { font-family: var(--font-family); cursor: pointer; }
